@@ -1,0 +1,51 @@
+book_id,title,author,available,borrowed_by,due_date,borrow_count
+1,1984,George Orwell,False,11,2025-04-30,3
+8,Animal Farm,George Orwell,True,,,7
+44,Anne of Green Gables,L.M. Montgomery,True,,,0
+9,Brave New World,Aldous Huxley,True,,,1
+45,Charlotte's Web,E.B. White,True,,,0
+21,Crime and Punishment,Fyodor Dostoevsky,True,,,0
+24,Don Quixote,Miguel de Cervantes,True,,,1
+16,Dracula,Bram Stoker,True,,,1
+37,Dune,Frank Herbert,True,,,1
+7,Fahrenheit 451,Ray Bradbury,True,,,0
+17,Frankenstein,Mary Shelley,True,,,0
+11,Harry Potter and the Sorcerer's Stone,J.K. Rowling,True,,,0
+27,Jane Eyre,Charlotte Brontë,True,,,0
+23,Les Misérables,Victor Hugo,True,,,0
+35,Life of Pi,Yann Martel,True,,,0
+46,Matilda,Roald Dahl,True,,,0
+19,Moby Dick,Herman Melville,True,,,0
+4,Pride and Prejudice,Jane Austen,True,,,0
+33,Slaughterhouse-Five,Kurt Vonnegut,True,,,0
+12,The Alchemist,Paulo Coelho,True,,,0
+14,The Book Thief,Markus Zusak,True,,,0
+22,The Brothers Karamazov,Fyodor Dostoevsky,True,,,0
+31,The Catch-22,Joseph Heller,True,,,0
+5,The Catcher in the Rye,J.D. Salinger,True,,,3
+48,The Chronicles of Narnia,C.S. Lewis,True,,,0
+30,The Count of Monte Cristo,Alexandre Dumas,True,,,0
+25,The Divine Comedy,Dante Alighieri,True,,,0
+39,The Fault in Our Stars,John Green,True,,,0
+41,The Giver,Lois Lowry,True,,,0
+49,The Golden Compass,Philip Pullman,True,,,0
+32,The Grapes of Wrath,John Steinbeck,True,,,0
+3,The Great Gatsby,F. Scott Fitzgerald,True,,,3
+6,The Hobbit,J.R.R. Tolkien,True,,,1
+36,The Hunger Games,Suzanne Collins,True,,,0
+26,The Iliad,Homer,True,,,0
+34,The Kite Runner,Khaled Hosseini,True,,,0
+50,The Lightning Thief,Rick Riordan,True,,,0
+47,The Little Prince,Antoine de Saint-Exupéry,True,,,0
+10,The Lord of the Rings,J.R.R. Tolkien,True,,,0
+38,The Maze Runner,James Dashner,True,,,0
+18,The Odyssey,Homer,True,,,0
+42,The Outsiders,S.E. Hinton,True,,,0
+40,The Perks of Being a Wallflower,Stephen Chbosky,True,,,0
+29,The Picture of Dorian Gray,Oscar Wilde,True,,,0
+13,The Road,Cormac McCarthy,True,,,0
+43,The Secret Garden,Frances Hodgson Burnett,True,,,0
+15,The Shining,Stephen King,True,,,0
+2,To Kill a Mockingbird,Harper Lee,True,,,5
+20,War and Peace,Leo Tolstoy,True,,,0
+28,Wuthering Heights,Emily Brontë,True,,,0
